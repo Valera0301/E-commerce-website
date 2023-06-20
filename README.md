@@ -7,8 +7,6 @@ This a web application Java Based  Beginner level project To developing the e-co
 - Run the project ( by build pom.xml file or right click and run main class JtSpringprojectApplication.java)
 - open http://localhost:8080/ there we go.
 
-# Workflow
-- ![image](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/69951cb7-65e2-4225-8681-2542859aaec6)
 ### Controller
 - control the endpoint and also send data to view( we use ModelAndView method)
 - ``` @GetMapping("login")
